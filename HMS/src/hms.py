@@ -8,7 +8,7 @@ from datetime import datetime
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Akshay.2005.kumar',  # change if needed
+    'password': #Please enter the password,  # change if needed
     'database': 'hms'
 }
 
